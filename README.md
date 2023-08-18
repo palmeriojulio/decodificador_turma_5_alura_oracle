@@ -12,7 +12,7 @@ Contrua um decodificador de texto com Javascript.
 Codificador/Decodificador de textos feito para o desafio de Challenge do moulo Iniciante em Programação da turma 5 Alura + Oracle ONE. Essa plicação permite ao usuário criptografar e descriptografar mensagens usando um algoritmo de substituição, podendo inserir seu texto com caracteres alfa numericos minúsculos e sem acentos, e escolher entre criptografar ou descriptografar a mensagem. 
 </p>
 
-## Layout :dash:
+## Layout
 
 <img src="/img/Screenshot.png" width=80%>
 
