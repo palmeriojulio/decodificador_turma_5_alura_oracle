@@ -1,4 +1,4 @@
-<h3 align="center">Challenge Alura + Oracle ONE turma 5 - Iniciante em programação</h3> 
+<h1 align="center">Challenge Alura + Oracle ONE turma 5 - Iniciante em programação</h1> 
 
 <p> Desafio: 
 Contrua um decodificador de texto com Javascript.
